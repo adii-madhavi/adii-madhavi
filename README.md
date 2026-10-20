@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Aditya Madhavi — Computer Engineering, class of 2028. Python, machine learning and retrieval-augmented generation." />
+  <img src="./assets/profile-banner.svg" width="100%" alt="alpo3n — Computer Engineering, class of 2028. Python, machine learning and retrieval-augmented generation." />
 </p>
 
-I'm Aditya, a **Computer Engineering student at Shah & Anchor Kutchhi Engineering College**, graduating in **2028**. I build Python applications and work with machine learning, NLP and retrieval-augmented generation.
+I'm **alpo3n** (Aditya), a **Computer Engineering student at Shah & Anchor Kutchhi Engineering College**, graduating in **2028**. I build Python applications and work with machine learning, NLP and retrieval-augmented generation.
 
 **Currently looking for an AI/ML internship.** I'm interested in model evaluation, LLM applications and the backend work that connects them to an interface people can use.
 
