@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">alpo3n</title>
-  <desc id="desc">Computer Engineering student, class of 2028. Software development, machine learning and developer tools. Open to internship opportunities.</desc>
+  <desc id="desc">Computer Engineering student, class of 2028. Web applications, backend systems and developer tools. Open to internship opportunities.</desc>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#26394b" stroke-width="1"/>
@@ -15,7 +15,7 @@
   <rect x="56" y="54" width="32" height="4" rx="2" fill="#7ce4cf"/>
   <text x="56" y="94" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2" fill="#a4bbcc">COMPUTER ENGINEERING / CLASS OF 2028</text>
   <text x="52" y="161" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-weight="700" font-size="68" letter-spacing="-1.5" fill="#f4f7fa">alpo3n</text>
-  <text x="56" y="205" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" fill="#c0ceda">Software development, machine learning and developer tools</text>
+  <text x="56" y="205" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" fill="#c0ceda">Web applications, backend systems and developer tools</text>
   <rect x="56" y="240" width="8" height="8" rx="4" fill="#7ce4cf"/>
   <text x="76" y="251" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#7ce4cf">OPEN TO INTERNSHIP OPPORTUNITIES</text>
   <g fill="none" stroke="#36546b" stroke-width="1.5">
@@ -30,5 +30,5 @@
   <circle cx="938" cy="160" r="5" fill="#7ce4cf"/>
   <circle cx="1042" cy="112" r="3" fill="#7ce4cf"/>
   <circle cx="1136" cy="164" r="3" fill="#7ce4cf"/>
-  <text x="844" y="283" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2" fill="#7899b1">DATA / MODELS / APPLICATIONS</text>
+  <text x="844" y="283" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2" fill="#7899b1">CODE / BUILD / ITERATE</text>
 </svg>
