@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Madhavi</title>
+  <desc id="desc">Computer Engineering student, class of 2028. Python, machine learning and retrieval-augmented generation.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#26394b" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop stop-color="#101d2c"/>
+      <stop offset="1" stop-color="#132536"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#fade)"/>
+  <path d="M800 0H1184Q1200 0 1200 16V304Q1200 320 1184 320H800Z" fill="url(#grid)" opacity=".65"/>
+  <rect x="56" y="54" width="32" height="4" rx="2" fill="#7ce4cf"/>
+  <text x="56" y="94" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2" fill="#a4bbcc">COMPUTER ENGINEERING / CLASS OF 2028</text>
+  <text x="52" y="161" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-weight="700" font-size="58" letter-spacing="-1.5" fill="#f4f7fa">Aditya Madhavi</text>
+  <text x="56" y="205" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" fill="#c0ceda">Python, machine learning and RAG applications</text>
+  <rect x="56" y="240" width="8" height="8" rx="4" fill="#7ce4cf"/>
+  <text x="76" y="251" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#7ce4cf">OPEN TO AI/ML INTERNSHIPS</text>
+  <g fill="none" stroke="#36546b" stroke-width="1.5">
+    <path d="M844 100L938 64L1042 112L1136 68M844 100L938 160L1042 112L1136 164M844 220L938 160L1042 232L1136 164M938 64V160M938 160L1042 112M1042 112V232"/>
+  </g>
+  <g fill="#162f42" stroke="#527b92" stroke-width="1.5">
+    <circle cx="844" cy="100" r="9"/><circle cx="844" cy="220" r="9"/>
+    <circle cx="938" cy="64" r="9"/><circle cx="938" cy="160" r="12"/>
+    <circle cx="1042" cy="112" r="9"/><circle cx="1042" cy="232" r="9"/>
+    <circle cx="1136" cy="68" r="9"/><circle cx="1136" cy="164" r="9"/>
+  </g>
+  <circle cx="938" cy="160" r="5" fill="#7ce4cf"/>
+  <circle cx="1042" cy="112" r="3" fill="#7ce4cf"/>
+  <circle cx="1136" cy="164" r="3" fill="#7ce4cf"/>
+  <text x="844" y="283" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2" fill="#7899b1">DATA / MODELS / APPLICATIONS</text>
+</svg>
