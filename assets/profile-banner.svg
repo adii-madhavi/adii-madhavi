@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Aditya Madhavi</title>
+  <title id="title">alpo3n</title>
   <desc id="desc">Computer Engineering student, class of 2028. Python, machine learning and retrieval-augmented generation.</desc>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
@@ -14,7 +14,7 @@
   <path d="M800 0H1184Q1200 0 1200 16V304Q1200 320 1184 320H800Z" fill="url(#grid)" opacity=".65"/>
   <rect x="56" y="54" width="32" height="4" rx="2" fill="#7ce4cf"/>
   <text x="56" y="94" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2" fill="#a4bbcc">COMPUTER ENGINEERING / CLASS OF 2028</text>
-  <text x="52" y="161" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-weight="700" font-size="58" letter-spacing="-1.5" fill="#f4f7fa">Aditya Madhavi</text>
+  <text x="52" y="161" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-weight="700" font-size="68" letter-spacing="-1.5" fill="#f4f7fa">alpo3n</text>
   <text x="56" y="205" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" fill="#c0ceda">Python, machine learning and RAG applications</text>
   <rect x="56" y="240" width="8" height="8" rx="4" fill="#7ce4cf"/>
   <text x="76" y="251" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#7ce4cf">OPEN TO AI/ML INTERNSHIPS</text>
